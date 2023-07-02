@@ -58,6 +58,8 @@ this will create a .exe file. Now you could go to the terminal and use the comma
 
 This will print "Hello World!"
 
+You could use **rustfmt** vscode extenstion for formatting the code you are writing.
+
 ## Currently following the course:
 
 [Youtube link](https://www.youtube.com/watch?v=BpPEoZW5IiY)
