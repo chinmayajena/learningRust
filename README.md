@@ -54,3 +54,7 @@ this will create a .exe file. Now you could go to the terminal and use the comma
 ```
 
 This will print "Hello World!"
+
+## Currently following the course:
+
+[Youtube link](https://www.youtube.com/watch?v=BpPEoZW5IiY)
