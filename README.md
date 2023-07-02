@@ -20,6 +20,9 @@ Yes, RUST is a system programming language. Learning Rust offers several benefit
 
 While learning Rust may require some initial effort due to its unique concepts, the benefits it offers make it a worthwhile investment for developers looking to enhance their skills and tackle challenging projects.
 
+![Why Rust](./_images/Rust-Why.png)
+![Energy Footprint](./_images/Rust-Energy-footprint.png)
+
 ## How to install on Windows 10 - 64bit arch?
 
 You could follow the [link](https://www.rust-lang.org/tools/install)
@@ -58,3 +61,5 @@ This will print "Hello World!"
 ## Currently following the course:
 
 [Youtube link](https://www.youtube.com/watch?v=BpPEoZW5IiY)
+
+![Course Goals](./_images/Rust-Course-Goals.png)
