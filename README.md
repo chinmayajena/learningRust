@@ -65,3 +65,31 @@ You could use **rustfmt** vscode extenstion for formatting the code you are writ
 [Youtube link](https://www.youtube.com/watch?v=BpPEoZW5IiY)
 
 ![Course Goals](./_images/Rust-Course-Goals.png)
+
+## Issue when using Actix Web framework
+
+```
+ Can't install cargo-binutils library: Failed to find tool. Is `gcc.exe` installed?
+```
+
+How to solve this?
+
+The windows machine needs a C and C++ compiler.
+You can visit the [URL](https://winlibs.com/)
+
+Download either the Windows 32-bit/64-bit version based on your system architecture.
+
+Extract this content and copy them into a folder C:\MinGW.
+
+Now open your environment variable and add a path C:\MinGW\bin.
+
+Now run the command in cmd prompt:
+
+$ gcc --version
+
+gcc.exe (MinGW-W64 x86_64-ucrt-posix-seh, built by Brecht Sanders) 13.2.0  
+Copyright (C) 2023 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions. There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+If you can see this, then you are done with gcc.exe installation.
